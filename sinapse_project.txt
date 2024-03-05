@@ -1,0 +1,9 @@
+Um projeto que uni varios conceitos
+
+basicamente um app, aonde montamos o hamburger estilo subway, temos algumas componetizações, ou seja, o projeto possui 2 paginas, repetindo algumas paginas do leyout como: a barra de navegação e o foutter.
+
+na home há um banner estatico, que é a chamada do site, e logo em seguida tem o formulário do projeto, aonde ele será o responsável pela criação do hamburguer.
+
+No projeto trabalhamos modelo de front separado do beck-end com uma API fack, aqui não foi criado um serviço de NODE ou PHP para consumir ou enviar dados, mas a ideia é a mesma, se comporta do mesmo jeito.
+
+Logo em sequida que o usuário preencher o formulário, será recepcionado na pagina de pedidos, com os dados fornecidos, aonde podemos mudar o status,sendo nossa ferramenta de update, ela possui 3 status: Solicitado, Em produção e Finalizado e um delete de "cancelar", tornando assim um projeto em CRUD.
